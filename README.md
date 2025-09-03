@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! Soy Dani 👋
 
-<!--
-**danimouzo/danimouzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Web Developer
 
-Here are some ideas to get you started:
+Desarrollador web especializado en JavaScript, React y tecnologías cloud.
+Trabajo dando soluciones web modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** JavaScript (ES6+), React, HTML5, CSS3
+- **Backend:** Node.js (Learning)
+- **Database:** SQL, MongoDB (Learning)
+- **Cloud:** AWS (Learning)
+- **Tools:** Git, VS Code
+
+### 📈 Actualmente estudiando
+- React & Modern JavaScript
+- AWS Cloud Services
+- Full Stack Development
+
+### 🎯 Objetivos 2025
+- Convertirme en Full Stack Developer
+- Obtener certificación AWS
+- Construir proyectos innovadores
+
+### 📫 Contacto
+- 💼 LinkedIn: https://www.linkedin.com/in/daniel-mouzo-garcia
+- 📧 Email: ddan30156@gmail.com
+
+---
+*"Siempre aprendiendo, siempre creciendo"* 🌱
